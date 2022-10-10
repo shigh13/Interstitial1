@@ -4,4 +4,6 @@ Mural website: https://shigh13.github.io/mural-hearst/
 
 Tracery bot: https://twitter.com/TeddyRo51719027
 
-Setting up the tracery bot was relative painless once I got past a single issue. I got the error code and didn't quite understand what was wrong, but after a few minutes of fiddling around I realized I was missing a single square bracket, and then it worked great. Setting up the Mural website was mainly a repetitive trial and error process where I failed multiple times due to a single file being hidden in the zip and I repeatedly failed to import it with the rest of the files, so the website obviously didn't run. Screenshots of the failures are in the ephemera.
+Twine story: download link in the repo
+
+Setting up the tracery bot was relative painless once I got past a single issue. I got the error code and didn't quite understand what was wrong, but after a few minutes of fiddling around I realized I was missing a single square bracket, and then it worked great. Working with Twine was wonderfully easy, I had a great time making a whacky choose your own adventure about Teddy Roosevelt's survival of an assassination attempt and didn't encounter any real difficulties (surprisingly). Setting up the Mural website was mainly a repetitive trial and error process where I failed multiple times due to a single file being hidden in the zip and I repeatedly failed to import it with the rest of the files, so the website obviously didn't run. Screenshots of the failures are in the ephemera.
